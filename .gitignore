@@ -1,0 +1,17 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Streamlit cache and logs
+.streamlit/
+*.log
+
+# PDFs
+*.pdf
+
+# Environment
+.env
+
+# macOS and system files
+.DS_Store
